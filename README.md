@@ -1,4 +1,4 @@
-# ఉమा (Uma) — Period Tracker
+# ఉమా (Uma) — Period Tracker
 
 > _"a celebration of her body"_
 
@@ -69,9 +69,8 @@ All data is stored in your browser's `localStorage`. Nothing is sent anywhere.
 ```
 uma/
 ├── uma.html      # The entire app (self-contained)
-├── uma_v1_fixed.html  # Reference prototype
-├── README.md     # This file
-└── roadmap.md    # Build notes and design decisions
+└── README.md     # This file
+ 
 ```
 
 ### No build step required
